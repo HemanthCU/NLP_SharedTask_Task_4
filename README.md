@@ -13,7 +13,9 @@ https://touche.webis.de/semeval23/touche23-web/index.html
 
 
 ![L-label classifier](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Llabel.png)
+
 ![L-binary classifiers](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/L-binary_label.png)
+
 ![Grouped Classifier](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Grouped_label.png)
 
 
