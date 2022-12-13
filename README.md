@@ -13,6 +13,10 @@ https://touche.webis.de/semeval23/touche23-web/index.html
 
 
 ![L-label classifier](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Llabel.png)
+<p align="center">
+  <img width="360" height="320" src="https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Llabel.png" alt = "L-label classifier" title="L-label classifier">
+</p>
+
 
 ![L-binary classifiers](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/L-binary_label.png)
 
