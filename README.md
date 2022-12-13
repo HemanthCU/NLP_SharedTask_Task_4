@@ -1,7 +1,7 @@
 ### Quintilian at SemEval-2023 Task 4: ValueEval: Identification of Human Values behind Arguments
 
 Group members:
-Hemanth Chenna
+Hemanth Chenna, 
 Ajay Narasimha Mopidevi
 
 Task:
@@ -30,4 +30,19 @@ https://touche.webis.de/semeval23/touche23-web/index.html
 
 
 # Results:
+
+Performance of aour approaches compared to the baseline
+
+| Model | Precision | Recall | F1 | Accuracy |
+| --- | --- | --- | --- | --- |
+| 1-Baseline | 0.18 | 1.0 | 0.28 | 0.18 |
+| SVM | 0.30 | 0.30 | 0.3 | 0.77 |
+| BERT | 0.39 | 0.30 | 0.34 | 0.84 |
+| L-label classifier | 0.29 | 0.48 | 0.36 | 0.76 |
+| L-Binary classifiers | 0.3 | 0.45 | 0.35 | 0.77 |
+| Hybrid + CE loss | 0.32 | 0.42 | 0.39 | 0.77 |
+| Hybrid + CE + HD loss | 0.33 | 0.43 | 0.40 | 0.77 |
+
+
+
 ![Comparison of individual test set $F_1$ scores for each of the labels by the different models we have trained and tested](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/F1-Comparision.png)
