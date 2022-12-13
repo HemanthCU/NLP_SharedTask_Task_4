@@ -1,4 +1,4 @@
-# Quintilian at SemEval-2023 Task 4: ValueEval: Identification of Human Values behind Arguments
+### Quintilian at SemEval-2023 Task 4: ValueEval: Identification of Human Values behind Arguments
 
 Group members:
 Hemanth Chenna
@@ -8,7 +8,14 @@ Task:
 Task 4: ValueEval
 https://touche.webis.de/semeval23/touche23-web/index.html
 
-Report: https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/NLP_Shared_Task_Report.pdf
 
-Proposed Architectures:
-![alt text](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Llabel.png)
+# Proposed Architectures:
+
+
+![L-label classifier](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Llabel.png)
+![L-binary classifiers](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/L-binary_label.png)
+![Grouped Classifier](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/Grouped_label.png)
+
+
+# Results:
+![Comparison of individual test set $F_1$ scores for each of the labels by the different models we have trained and tested](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/F1-Comparision.png)
