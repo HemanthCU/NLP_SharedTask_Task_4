@@ -31,7 +31,7 @@ https://touche.webis.de/semeval23/touche23-web/index.html
 
 # Results:
 
-Performance of aour approaches compared to the baseline
+<i>Performance of aour approaches compared to the baseline </i>
 
 | Model | Precision | Recall | F1 | Accuracy |
 | --- | --- | --- | --- | --- |
@@ -44,5 +44,10 @@ Performance of aour approaches compared to the baseline
 | Hybrid + CE + HD loss | 0.33 | 0.43 | 0.40 | 0.77 |
 
 
+
+
+
+
+<i>Comparison of individual test set F1 scores for each of the labels by the different models we have trained and tested</i>
 
 ![Comparison of individual test set $F_1$ scores for each of the labels by the different models we have trained and tested](https://github.com/HemanthCU/NLP_SharedTask_Task_4/blob/main/Results/F1-Comparision.png)
