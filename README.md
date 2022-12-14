@@ -8,6 +8,8 @@ Task:
 Task 4: ValueEval
 https://touche.webis.de/semeval23/touche23-web/index.html
 
+https://github.com/webis-de/acl22-identifying-the-human-values-behind-arguments
+
 
 # Proposed Architectures:
 
